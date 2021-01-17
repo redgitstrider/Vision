@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/UDL.unity
+    guid: c59cecbc62d792541b89210e911c257d
+  - enabled: 1
+    path: Assets/Scenes/RedRoom.unity
+    guid: a831d377af30b1647963b3f05168ab9f
+  m_configObjects: {}
